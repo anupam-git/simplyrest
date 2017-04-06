@@ -1,0 +1,22 @@
+{
+  "name": "easymvc",
+  "version": "0.1.0",
+  "description": "Easiest MVC Framework",
+  "main": "index.js",
+  "dependencies": {
+    "nodeannotations": "^0.2.1",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anupam Basak",
+  "license": "ISC"
+}
