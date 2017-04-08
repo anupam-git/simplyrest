@@ -1,0 +1,7 @@
+{
+    "controllersPath": "/controllers",
+    "modelsPath": "/models",
+    "viewsPath": "/views",
+    "viewEngine": "ejs",
+    "port": 3000
+}
