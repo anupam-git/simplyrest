@@ -3,5 +3,6 @@
     "modelsPath": "/models",
     "viewsPath": "/views",
     "viewEngine": "ejs",
+    "publicPath": "/public",
     "port": 3000
 }
