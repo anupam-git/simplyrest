@@ -1,6 +1,5 @@
 {
     "controllersPath": "/controllers",
-    "modelsPath": "/models",
     "viewsPath": "/views",
     "viewEngine": "ejs",
     "publicPath": "/public",
