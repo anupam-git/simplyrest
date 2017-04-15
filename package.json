@@ -1,7 +1,7 @@
 {
-  "name": "easymvc",
+  "name": "simplyrest",
   "version": "0.6.0",
-  "description": "Easiest MVC Framework",
+  "description": "Easiest REST Api Framework for NodeJS Edit",
   "main": "index.js",
   "dependencies": {
     "body-parser": "~1.17.1",
