@@ -1,7 +1,7 @@
 {
   "name": "simplyrest",
   "version": "0.7.0",
-  "description": "Easiest REST Api Framework for NodeJS Edit",
+  "description": "Simplest REST Api Framework for NodeJS",
   "main": "index.js",
   "dependencies": {
     "body-parser": "~1.17.1",
