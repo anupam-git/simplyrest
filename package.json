@@ -1,6 +1,6 @@
 {
   "name": "simplyrest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplest REST Api Framework for NodeJS",
   "main": "index.js",
   "dependencies": {
