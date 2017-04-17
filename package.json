@@ -18,5 +18,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anupam Basak",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupam-git/simplyrest.git"
+  },
+  "keywords": [
+    "rest-api",
+    "express",
+    "framework",
+    "rest",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/anupam-git/simplyrest/issues"
+  },
+  "homepage": "https://github.com/anupam-git/simplyrest#readme"
 }
