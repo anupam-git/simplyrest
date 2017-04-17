@@ -182,7 +182,7 @@ simplyrest.listen(8080);
 
 
 # Examples
-Find two complete examples in the [`examples`](examples) folder.
+Find two complete examples in the [`examples`](./examples) folder.
 
 
 # Documentation
