@@ -85,7 +85,9 @@ simplyrest.config(options);
     * Annotations should be defined as shown above.
     * Method can be named according to choice.
     * `simplyrest` expects the method signature to be (req, res, next) just like ExpressJS Router Methods.
-    * URLs should contain trailing slashes and not leading slashes
+    * URLs should contain trailing slashes and not leading slashes.
+
+
 #### Supported HTTP Methods
 * __GET__ : @Get(url)
 * __POST__ : @Post(url)
@@ -97,6 +99,8 @@ simplyrest.config(options);
 * __TRACE__ : @Trace(url)
 * __CONNECT__ : @Connect(url)
 * __ALL__ : @All(url)
+
+
 #### Support for `router.param`
 `router.param` functionality is supported via `@Param(paramName)` Annotation.  
 __**Example**__ : 
