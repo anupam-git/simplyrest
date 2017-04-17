@@ -1,0 +1,12 @@
+{
+  "name": "simplyrest-without-custom-configuration",
+  "version": "0.0.0",
+  "description": "Example without Custom Configuration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anupam Basak",
+  "license": "MIT"
+}
