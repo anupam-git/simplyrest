@@ -20,6 +20,7 @@ Find complete examples in the [`example`](#) folder.
     * [Adding Templating Engine](#adding-templating-engine)
     * [Adding Error Handler](#adding-error-handler)
     * [Starting simplyrest Server](#starting-simplyrest-server)
+* [Examples](#examples)
 * [Documentation](#documentation)
     * [simplyrest.config(options)](#simplyrestconfigoptions)
     * [simplyrest.use(middleware)](#simplyrestusemiddleware)
@@ -178,6 +179,11 @@ The server will listen on `port` provided via argument even when the port is con
 ```javascript
 simplyrest.listen(8080);
 ```
+
+
+# Examples
+Find two complete examples in the [`examples`](examples) folder.
+
 
 # Documentation
 
