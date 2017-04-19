@@ -5,8 +5,8 @@ class RootContrtoller {
 	/**
 	 * @Get("/")
 	 */
-	restApi2(req, res, next) {
-		res.send("Welcome...");
+	rootMethod(req, res, next) {
+		res.render("sample");
 	}
 }
 
