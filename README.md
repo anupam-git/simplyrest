@@ -6,7 +6,7 @@
 
 To Expose a REST API, create a controller class and annotate with the predefined annotations.
 
-Find complete examples in the [`example`](#) folder.
+Find complete examples in the [`examples`](https://github.com/anupam-git/simplyrest/tree/master/examples) folder.
 
 
 # Table Of Contents
@@ -186,7 +186,7 @@ simplyrest.listen(8080);
 
 
 # Examples
-Find two complete examples in the [`examples`](./examples) folder.
+Find two complete examples in the [`examples`](https://github.com/anupam-git/simplyrest/tree/master/examples) folder.
 
 
 # Documentation
